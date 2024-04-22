@@ -1,0 +1,9 @@
+__mocks__/
+__tests__/
+.github/
+.vscode/
+docs/
+.eslintrc.js
+deployDocs.js
+jest.config.js
+playwright.config.js
